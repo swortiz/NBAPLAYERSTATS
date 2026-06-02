@@ -1,9 +1,9 @@
 ---
-title: NBA Player Explorer 2024–25
+title: NBA Player Stats 2024–25
 theme: light
 ---
 
-# NBA Player Explorer
+# NBA Player Stats
 ### 2024–25 Regular Season · Per-Game Stats
 
 #### Which NBA players have the best stats this season?
