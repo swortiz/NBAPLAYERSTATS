@@ -1,10 +1,12 @@
 ---
 title: NBA Player Explorer 2024–25
-theme: dark
+theme: light
 ---
 
 # NBA Player Explorer
 ### 2024–25 Regular Season · Per-Game Stats
+
+#### Which NBA players have the best stats this season?
 
 ```js
 // ── DATA ── 2024-25 Regular Season (verify decimals vs Basketball Reference)
@@ -265,7 +267,7 @@ display(svg.node());
 
 ---
 
-## Design Rationale
+## Design
 
 ### Visual Encodings
 
