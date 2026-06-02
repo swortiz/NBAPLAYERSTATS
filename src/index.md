@@ -1,6 +1,6 @@
 ---
 title: NBA Player Stats 2024–25
-theme: light
+theme: dark
 ---
 
 # NBA Player Stats
